@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muditha Kuruppu</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **madujith10@gmail.com**
 
